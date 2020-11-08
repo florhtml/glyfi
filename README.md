@@ -7,19 +7,19 @@
 </h3>
 
 <h1>
-  What does Glyfi is?
+  💬 What does Glyfi is?
 </h1>
 
 Glyfi is a fan and fast emoji chat system that uses voice recognition [to parse voice to emoji](http://www.nltk.org/book/ch05.html) language.
 
 <h1>
-  How does it works?
+  📚 How does it works?
 </h1>
 
-Xxxxx.
+Users use their voices to send glifs (creative and amazing emoji messages) to communicate shorter, faster and funnier.
 
 <h1>
-  And now?
+  🧭 Next steps?
 </h1>
 
-Xxxxx.
+I'll think of cool features to improve the UX!
