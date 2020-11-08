@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="500px" src="/img/logo_hor.png">
+  <img width="513px" src="/img/logo_hor.png">
 </p>
 
-<p align="center">
+<h3 align="center">
   One glyf, thousand words.
-</p>
+</h3>
 
 <h1>
   What does Glyfi is?
