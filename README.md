@@ -18,6 +18,21 @@ Glyfi is a fan and fast emoji chat system that uses voice recognition [to parse 
 
 Users use their voices to send glyfs (creative and amazing emoji messages) to communicate shorter, faster and funnier.
 
+<p align="center">
+  <img width="960px" src="/img/mockup_screens.png">
+</p>
+
+<h1>
+  🧞‍♂️ Do you dare to decipher some chats?
+</h1>
+
+Go for it!
+
+
+<p align="center">
+  <img width="960px" src="/img/mockup_chats.png">
+</p>
+
 <h1>
   🧭 Next steps?
 </h1>
