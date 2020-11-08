@@ -16,7 +16,7 @@ Glyfi is a fan and fast emoji chat system that uses voice recognition [to parse 
   📚 How does it works?
 </h1>
 
-Users use their voices to send glifs (creative and amazing emoji messages) to communicate shorter, faster and funnier.
+Users use their voices to send glyfs (creative and amazing emoji messages) to communicate shorter, faster and funnier.
 
 <h1>
   🧭 Next steps?
