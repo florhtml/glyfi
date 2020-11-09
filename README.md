@@ -10,7 +10,7 @@
   💬 What does Glyfi is?
 </h1>
 
-Glyfi is a fan and fast emoji chat system that uses voice recognition [to parse voice to emoji](http://www.nltk.org/book/ch05.html) language.
+Glyfi is a fun and fast emoji chat system that uses voice recognition [to parse voice to emoji](http://www.nltk.org/book/ch05.html) language.
 
 <h1>
   📚 How does it works?
