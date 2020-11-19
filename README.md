@@ -34,3 +34,9 @@ Go for it!
 </h1>
 
 I'll think of cool features to improve the UX!
+
+<h1>
+  📱 This is the prototype!
+</h1>
+
+Test the [Figma prototype](https://www.figma.com/proto/kEJteGCJuWVEpUGvJlNXnF/Emoji-app?node-id=6%3A4776&viewport=1006%2C1302%2C0.3021760582923889&scaling=scale-down)!
